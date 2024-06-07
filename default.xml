@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="aosp"
-           fetch="https://android.googlesource.com"
+           fetch="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/"
            review="https://android-review.googlesource.com/" />
 
   <remote name="github"
@@ -13,7 +13,7 @@
 
   <default revision="refs/tags/android-14.0.0_r22"
            remote="aosp"
-           sync-j="4"
+           sync-j="3"
            sync-c="true"
            sync-f="true" />
 

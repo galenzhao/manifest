@@ -15,7 +15,7 @@
           revision="fourteen" />
 
   <remote name="pixel-devices-blobs"
-          fetch="https://gitlab.pixelexperience.org/android/vendor-blobs"
+          fetch="https://github.com/PixelExperience-Blobs"
           revision="fourteen" />
 
   <!-- External repos -->
